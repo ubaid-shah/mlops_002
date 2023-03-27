@@ -1,4 +1,4 @@
-# Chapter 5. Deployment
+# MLOps Deployment
 
 ## Preparation
 
@@ -75,3 +75,6 @@ Run it:
 ```bash
 docker run -it -p 9696:9696 churn-prediction:latest
 ```
+
+
+Deploy it on AWS bean stalk
